@@ -1,9 +1,5 @@
 # Alterações Realizadas no Projeto
 
-Este documento descreve as modificações realizadas no HTML e CSS do projeto da Trilha CSS DIO, detalhando melhorias no layout, fontes, cores e seções do site.
-
----
-
 ## 1. HTML
 - Adicionado **favicon** para personalizar o ícone do navegador.
 - Inclusão da fonte **Raleway** via Google Fonts para estilização do texto.
